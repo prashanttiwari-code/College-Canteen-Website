@@ -252,12 +252,7 @@
 //             </section>
 
 
-//             <footer className="footer">
-//                 <div className="footer-section">
-//                     <h3>Contact Us</h3>
-//                     <p><i className="fas fa-map-marker-alt"></i> Location</p>
-//                     <p><i className="fas fa-phone"></i> Call +91 9897035395</p>
-//                     <p><i className="fas fa-envelope"></i> Glacanteen@yahoo.in</p>
+//             <footer classme="fas fa-envelope"></i> Glacanteen@yahoo.in</p>
 //                 </div>
 
 //                 <div className="footer-section">
